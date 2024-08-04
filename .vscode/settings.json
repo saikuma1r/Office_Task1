@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "MyJavaAPI/src",
+        "MyApiProject/src/main/java/com/example/api"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
